@@ -1,2 +1,0 @@
-# TVBPRPlus
-Recommender system TVBPRPlus
